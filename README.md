@@ -1,4 +1,4 @@
-# Circuitos_Digitais-Projetos
+# Circuitos_Digitais-Projeto: Guess the Number!
 Projeto de Circuitos Digitais do Curso de Ciência da Computação.
 
 
